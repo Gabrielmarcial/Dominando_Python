@@ -5,22 +5,22 @@ __*Guia da Pasta*__
 1. __Algoritmo :__ 
  Ordem de dificuldade 
  
-* Nome completo : O objetivo desse exercício é organizar as letras de um nome com a primeira em maiúscula é o restante em miníscula.
+* [Nome completo](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Nome_completo.py) : O objetivo desse exercício é organizar as letras de um nome com a primeira em maiúscula é o restante em miníscula.
 
-* Lista Aniversariantes : Gerar tuplas contendo 4 itens relativos a uma mesma pessoa: Nome; Email; Dia de nascimento; Mês de nascimento.
+* [Lista Aniversariantes](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Lista_Aniversariantes.py) : Gerar tuplas contendo 4 itens relativos a uma mesma pessoa: Nome; Email; Dia de nascimento; Mês de nascimento.
 
-* Lista Aniversariantes : Escreva um programa que crie um dicionário contendo 4 itens relativos a uma mesma pessoa, 
+* [Lista Aniversariantes](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Lista_Aniversariantes02.py) : Escreva um programa que crie um dicionário contendo 4 itens relativos a uma mesma pessoa, 
 tendo 'Nome' como chave e os demais itens formando uma tupla: {Nome: (Email, Dia de nascimento, Mês de nascimento)}
 
-* Lista Interativa : Escreva um programa para criar uma lista de tuplas contendo quatro itens relativos a uma mesma pessoa:
+* [Lista Interativa](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Lista_interativa.py) : Escreva um programa para criar uma lista de tuplas contendo quatro itens relativos a uma mesma pessoa:
 (nome, email, dia nascimento, mês nascimento).Implemente funções para fazer um 
 cadastro: incluir( ), consultar( ), consultar_aniversariante( ), listar( ).
 
-* Lista de user interativa : Escrever um programa para criar uma fila, representada por uma lista, 
+* [Lista de user interativa](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Lista_de_user_interativa.py) : Escrever um programa para criar uma fila, representada por uma lista, 
 e apresentar ao usuário as opções de inserir, remover, obter a frente da fila e 
 visualizar todo o conteúdo da fila.
 
-* Conta Corrente : Escreva um programa que crie um classe para representar uma conta corrente de um banco
+* [Conta Corrente](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Conta_corrente.py) : Escreva um programa que crie um classe para representar uma conta corrente de um banco
  A classe terá um número e um saldo.
 
 ---
