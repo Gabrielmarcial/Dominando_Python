@@ -8,7 +8,7 @@ __*Guia do Repositório*__
 1. __Algoritmo :__ 
  Ordem de dificuldade 
  
-* Nome completo : O objetivo desse exercício é organizar as letras de um nome com a primeira em maiúscula é o restante em miníscula.
+* Nome completo : O objetivo desse exercício é organizar as letras de um nome com a primeira em maiúscula e o restante em miníscula.
 
 * Lista Aniversariantes : Gerar tuplas contendo 4 itens relativos a uma mesma pessoa: Nome; Email; Dia de nascimento; Mês de nascimento.
 
