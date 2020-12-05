@@ -1,9 +1,6 @@
-# __*Exercicios  Python*__
----
-----
-Repositório com __objetivo__ de compartilhar conhecimentos na linguagem __Python__.
+__*Guia da Pasta*__
 
-__*Guia do Repositório*__
+---
 
 1. __Algoritmo :__ 
  Ordem de dificuldade 
@@ -26,8 +23,9 @@ visualizar todo o conteúdo da fila.
 * Conta Corrente : Escreva um programa que crie um classe para representar uma conta corrente de um banco
  A classe terá um número e um saldo.
 
+---
 
+Redes Sociais :
 
-
-
-[Acesse meu linkedin para saber sobre mais conteúdos](https://www.linkedin.com/in/gabriel-marcial-6ba93a1a1/)
+- [Linkedin](https://www.linkedin.com/in/gabriel-marcial-6ba93a1a1/)
+- [Blog: Data Marte](https://datamarte.com/)
