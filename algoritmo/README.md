@@ -5,7 +5,7 @@ __*Guia da Pasta*__
 1. __Algoritmo :__ 
  Ordem de dificuldade 
  
-* [Nome completo](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Nome_completo.py) : O objetivo desse exercício é organizar as letras de um nome com a primeira em maiúscula é o restante em miníscula.
+* [Nome completo](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Nome_completo.py) : O objetivo desse exercício é organizar as letras de um nome com a primeira em maiúscula é o restante em minúscula.
 
 * [Lista Aniversariantes](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Lista_Aniversariantes.py) : Gerar tuplas contendo 4 itens relativos a uma mesma pessoa: Nome; Email; Dia de nascimento; Mês de nascimento.
 
