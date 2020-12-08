@@ -4,6 +4,10 @@ Repositório com __objetivo__ de compartilhar conhecimentos na linguagem __Pytho
 
 __*Guia do Repositório*__
 
+1. [__Strings__]()
+
+1. [__Funções__]()
+
 1. [__Algoritmo__](https://github.com/Gabrielmarcial/Dominando_Python/tree/main/algoritmo)
  ---
 Redes Sociais :
