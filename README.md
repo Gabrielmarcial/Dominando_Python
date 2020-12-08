@@ -4,9 +4,9 @@ Repositório com __objetivo__ de compartilhar conhecimentos na linguagem __Pytho
 
 __*Guia do Repositório*__
 
-1. [__Strings__]()
+1. [__Strings__](https://github.com/Gabrielmarcial/Dominando_Python/tree/main/Strings)
 
-1. [__Funções__]()
+1. [__Funções__](https://github.com/Gabrielmarcial/Dominando_Python/tree/main/Fun%C3%A7%C3%B5es)
 
 1. [__Algoritmo__](https://github.com/Gabrielmarcial/Dominando_Python/tree/main/algoritmo)
  ---
