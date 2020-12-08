@@ -23,6 +23,14 @@ visualizar todo o conteúdo da fila.
 * [Conta Corrente](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/algoritmo/Conta_corrente.py) : Escreva um programa que crie um classe para representar uma conta corrente de um banco
  A classe terá um número e um saldo.
 
+* [Letras no Texto(01)]() : Escreva um programa para ler um arquivo texto fornecido (“Receita de Ano Novo.txt”) e fazer a
+contagem de espaços, de cada letra maiúscula e de cada letra minúscula, imprimir os valores
+encontrados e identificar a letra (maiúscula ou minúscula) com maior número de ocorrências.
+
+* [Letras no texto(02)]() : Crie um programa que leia um arquivo texto entrada.txt e conte quantas vezes cada letra aparece no
+texto dentro do arquivo
+
+* [Sistemas 3x3]() : Crie um programa que implemente a Regra de Cramer para um sistema de 3 equações e 3 incógnitas.
 ---
 
 Redes Sociais :
