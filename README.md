@@ -9,6 +9,8 @@ __*Guia do Repositório*__
 1. [__Funções__](https://github.com/Gabrielmarcial/Dominando_Python/tree/main/Fun%C3%A7%C3%B5es)
 
 1. [__Algoritmo__](https://github.com/Gabrielmarcial/Dominando_Python/tree/main/algoritmo)
+
+1. [__Desafios Pythonicos__](https://github.com/Gabrielmarcial/Dominando_Python/tree/main/Desafios_Pythonicos)
  ---
 Redes Sociais :
 
