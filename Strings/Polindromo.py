@@ -10,7 +10,7 @@ mesmas letras maiúsculas e minúsculas devem ser consideradas como letras iguai
 
 '''
 
-def polimedro(frase):
+def polindromo(frase):
     frase = frase.strip().upper()
     termos = frase.split()
     junto = ''.join(termos)
@@ -25,4 +25,4 @@ def polimedro(frase):
 
 
 #teste
-polimedro('Sommos')
+polindromo('Sommos')
