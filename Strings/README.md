@@ -5,7 +5,7 @@ __*Guia da Pasta*__
 1. __Strings:__ 
  Ordem de dificuldade 
  
-* [Polimedro](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/Strings/Polimedro.py) : Implemente a função palindromo(palavra). Um palíndromo é uma cadeia de caracteres que pode ser lida de frente para trás e de trás para frente. Exemplos: ‘Somos’, ‘1234321’.
+* [Palindromo](https://github.com/Gabrielmarcial/Dominando_Python/blob/main/Strings/Polimedro.py) : Implemente a função palindromo(palavra). Um palíndromo é uma cadeia de caracteres que pode ser lida de frente para trás e de trás para frente. Exemplos: ‘Somos’, ‘1234321’.
 
 
 
